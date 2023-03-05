@@ -1,0 +1,42 @@
+
+Experiment 1:Study and Implementation of DML Commands of SQL with Suitable Example 
+*Insert
+*Delete
+* Update 
+Experiment 2:Study and Implementation of DDL Commands of SQL with Suitable Example 
+*Create
+*Alter
+*Drop 
+Experiment 3:Study and Implementation of DML Commands of 
+*Select Clause
+* From Clause
+* Where Clause
+
+Experiment 4:Study and Implementation of DML Commands of 
+* Group By & Having Clause
+* Order By Clause
+* Create View, Indexing & Procedure Clause
+
+Experiment 5:Study and Implementation of SQl Commands of Join Operations with Exampe
+* Cartesian Product
+* Nutural Join
+* Left Outer Join
+* Right Outer Join
+* Full Outer Join
+
+Experiment 6:Study and Implementation of Aggregate Function with Exampe
+* Count Function 
+* Max Function 
+* Min Function 
+* Avg Function 
+
+Experiment 7: Study and Implementation of Triggering system on database table using SQL commands with Exampe.
+
+Experiment 8: Study and Implementation of SQl commnads to Connect MySQL Database in Java or PHP. 
+
+
+
+Objective: 1. To understand and use data defination language to write query for database 
+           2. To understand and use data manipulation language to write query for database.
+           3. To understand the different issues in the design and implementaion of a database system.
+           4. To understand and use data manipulation language to inert, update, delete and manage database.
